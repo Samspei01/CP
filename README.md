@@ -1,5 +1,6 @@
 # Competitive Programming Solutions
-![satoru-gojo-domain-expansion-jujutsu-kaisen-4k-wallpaper-uhdpaper com-545@0@e](https://github.com/Samspei01/CP/assets/155198764/61211110-d15b-43f0-8217-a92d7ef817ec)
+![code](https://github.com/Samspei01/CP/assets/155198764/2ee4db30-13bf-40cc-8d85-ee35671fc433)
+
 
 Welcome to my Competitive Programming (CP) solutions repository! Here, you will find my solutions to various competitive programming problems from multiple platforms like Codeforces, HackerRank, CodeChef, and others. This repository is organized to help both newcomers and seasoned competitors understand problem-solving strategies in competitive programming.
 
