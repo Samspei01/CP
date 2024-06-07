@@ -1,5 +1,5 @@
 # Competitive Programming Solutions
-![code](https://github.com/Samspei01/CP/assets/155198764/2ee4db30-13bf-40cc-8d85-ee35671fc433)
+![specialist](https://github.com/Samspei01/CP/assets/155198764/ea52e4a6-ad5f-44aa-81c9-c8860830aa2f)
 
 
 Welcome to my Competitive Programming (CP) solutions repository! Here, you will find my solutions to various competitive programming problems from multiple platforms like Codeforces, HackerRank, CodeChef, and others. This repository is organized to help both newcomers and seasoned competitors understand problem-solving strategies in competitive programming.
