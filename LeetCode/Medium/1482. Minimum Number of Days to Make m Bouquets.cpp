@@ -27,10 +27,10 @@ public:
 bloomDay = [7,7,7,7,12,7,7], m = 2, k = 3
 test 7:
 7 7 7 bouquets
-* 7 7 xxxxx 
+* 7 7 XXX 
 test 12:
 7 7 7  bouquets
 12 7 7 bouquets
-take 12 days for take adj flowers and make bouquets for my Gf 
-wait a minute!, idon't have a Gf
+take 12 days to add flowers and make bouquets for my Gf
+wait a minute!, I don't have a GF
 */
